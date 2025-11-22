@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "role": "admin",
+      "created_at": "2025-01-15T10:32:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Brandon Lee",
+      "email": "brandon.lee@example.com",
+      "role": "member",
+      "created_at": "2025-03-02T08:14:00Z"
+    },
+    {
+      "id": 3,
+      "name": "Sara Kim",
+      "email": "sara.kim@example.com",
+      "role": "moderator",
+      "created_at": "2025-06-20T17:45:00Z"
+    }
+  ]
+}
